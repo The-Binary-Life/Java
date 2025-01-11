@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/SNIP_001_What_To_Expect_In_A_Class/SNIP_001_What_To_Expect_In_A_Class.iml" filepath="$PROJECT_DIR$/SNIP_001_What_To_Expect_In_A_Class/SNIP_001_What_To_Expect_In_A_Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SNIP_002_Using_Static_Variables_To_Count_Instances/SNIP_002_Using_Static_Variables_To_Count_Instances.iml" filepath="$PROJECT_DIR$/SNIP_002_Using_Static_Variables_To_Count_Instances/SNIP_002_Using_Static_Variables_To_Count_Instances.iml" />
     </modules>
   </component>
 </project>
