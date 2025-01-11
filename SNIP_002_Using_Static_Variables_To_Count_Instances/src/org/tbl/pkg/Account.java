@@ -1,4 +1,4 @@
-package com.tbl.pkg;
+package org.tbl.pkg;
 
 public class Account { //Class name
     //Class Declarations:
