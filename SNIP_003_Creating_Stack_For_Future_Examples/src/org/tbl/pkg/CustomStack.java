@@ -13,7 +13,7 @@ public class CustomStack {
 
     //Operations using instance methods
     public void push(int element){
-        elements[stackTop++] = element; //Adding element at the current stack top
+        elements[++stackTop] = element; //Adding element at the current stack top
     }
 
     public int pop(){
@@ -29,6 +29,6 @@ public class CustomStack {
     }
 
     public boolean isFull(){
-        return stackTop == elements.length;
+        return stackTop == elements.length - 1;
     }
 }
