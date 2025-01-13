@@ -1,5 +1,10 @@
 package org.tbl.pkg;
 
+/**
+ * @author The_Binary_Life
+ * @version 1.0.0
+ */
+
 public class Account { //Class name
     //Class Declarations:
     //Instance Fields:

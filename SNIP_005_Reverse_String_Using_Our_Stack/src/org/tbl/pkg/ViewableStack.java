@@ -12,9 +12,10 @@ public class ViewableStack extends CustomStack{
         super(capacity);
     }
 
+    //Additional method which is added for printing the stack
     public void printStack(){
         for(int i = 0; i <= stackTop; i++){
-            System.out.print(elements[i] + " ");
+            System.out.print((char)elements[i]);
         }
         System.out.println();
     }
