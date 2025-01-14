@@ -2,6 +2,11 @@ package org.tbl.pkg;
 
 import java.io.Serializable;
 
+/**
+ * @author The_Binary_Life
+ * @version 1.0.0
+ */
+
 //The class should implement Serializable marker interface
 public class JavaBean implements Serializable {
     //Properties should be private
