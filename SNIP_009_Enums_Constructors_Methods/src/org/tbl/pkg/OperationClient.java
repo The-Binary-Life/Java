@@ -19,5 +19,8 @@ public class OperationClient {
         for(Operation op : Operation.values()){
             op.solve(num1, num2);
         }
+
+        //Calling the static method in the enum
+        Operation.sampleStaticMethod();
     }
 }

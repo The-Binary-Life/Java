@@ -28,4 +28,14 @@ public enum Operation {
     public String toString(){
         return operationCode;
     }
+
+    //getter methods
+    public String getOperationCode(){
+        return this.operationCode;
+    }
+
+    //static method
+    public static void sampleStaticMethod(){
+        System.out.println("The static method was called");
+    }
 }
