@@ -1,5 +1,9 @@
 package org.tbl.pkg;
 
+/**
+ * @author The_Binary_Life
+ */
+
 public enum Operation {
     ADDITION("+") {
         @Override
