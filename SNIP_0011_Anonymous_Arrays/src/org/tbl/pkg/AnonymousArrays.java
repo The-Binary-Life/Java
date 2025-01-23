@@ -2,6 +2,10 @@ package org.tbl.pkg;
 
 import java.util.StringJoiner;
 
+/**
+ * @author The_Binary_Life
+ */
+
 public class AnonymousArrays {
     public static void main(String[] args) {
         System.out.println("Length of anonymous int array: " + (new int[]{1, 2, 3, 4, 5}).length);

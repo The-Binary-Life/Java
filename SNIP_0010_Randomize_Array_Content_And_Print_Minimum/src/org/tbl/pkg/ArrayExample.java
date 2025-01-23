@@ -2,6 +2,10 @@ package org.tbl.pkg;
 
 import static org.tbl.pkg.Randomizer.randomize;
 
+/**
+ * @author The_Binary_Life
+ */
+
 public class ArrayExample {
     private static final int ARRAY_NUM = 5;
     private static final int ARRAY_CAPACITY = 10;
